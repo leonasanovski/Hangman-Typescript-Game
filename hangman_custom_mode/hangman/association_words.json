@@ -1,0 +1,57 @@
+[
+  {
+    "label": "apple",
+    "hint": "fruit",
+    "image_hint": "./hint_images/bazaar.png"
+  },
+  {
+    "label": "glasses",
+    "hint": "accessories",
+    "image_hint": ".//hint_images/beach.jpeg"
+  },
+  {
+    "label": "health",
+    "hint": "condition",
+    "image_hint": "./hint_images/hospital.jpeg"
+  },
+  {
+    "label": "picture",
+    "hint": "art",
+    "image_hint": "./hint_images/gallery.jpeg"
+  },
+  {
+    "label": "book",
+    "hint": "education",
+    "image_hint": "./hint_images/university.jpeg"
+  },
+  {
+    "label": "pear",
+    "hint": "fruit",
+    "image_hint": "./hint_images/bazaar.png"
+  },
+  {
+    "label": "sculpture",
+    "hint": "art",
+    "image_hint": "./hint_images/gallery.jpeg"
+  },
+  {
+    "label": "video game",
+    "hint": "occupation",
+    "image_hint": "./hint_images/pc.jpeg"
+  },
+  {
+    "label": "keyboard",
+    "hint": "device",
+    "image_hint": "./hint_images/pc.jpeg"
+  },
+  {
+    "label": "cucumber",
+    "hint": "vegetable",
+    "image_hint": "./hint_images/bazaar.png"
+  },
+  {
+    "label": "goalkeeper",
+    "hint": "football",
+    "image_hint": "./hint_images/gk_gloves.png"
+  }
+]
