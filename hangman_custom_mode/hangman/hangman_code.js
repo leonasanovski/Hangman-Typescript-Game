@@ -200,7 +200,7 @@ async function startGame() {
         console.error("Error starting game:", error);
     }
 }
-//main part
+//function that activates the game logic
 function main_run_game() {
     window.addEventListener("DOMContentLoaded", startGame);
     window.addEventListener("keydown", (event) => {
@@ -218,4 +218,5 @@ function main_run_game() {
         info_div.style.display = "none";
     });
 }
+//game starts at this call
 main_run_game();
